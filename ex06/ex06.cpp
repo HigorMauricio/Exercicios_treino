@@ -13,6 +13,7 @@ int main(){
     } else {
         cout << "nao eh perfeito";
     }
+    return 0;
 }
 
 bool eh_perfeito(int numero){
